@@ -11,7 +11,7 @@ Post, Put and Delete functions will be gradually added in future releases.
 
 | API | Get | Post | Put | Delete |
 | --- | :---: | :---: | :---: | :---: |
-| [bibs](#access-bibliographic-data) | X | | | |
+| [bibs](#access-bibliographic-data) | X | X | X | |
 | [analytics](#access-reports) | X | NA | NA | NA |
 | [acquisitions](#access-acquisitions) | X | | | |
 | [configuration](#access-configuration-settings) | X | | | |
